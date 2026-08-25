@@ -2,55 +2,31 @@
 
 ### Electronics & Communication Engineering Student | VLSI | FPGA | Embedded Systems
 
-I'm an ECE undergraduate at **G. Narayanamma Institute of Technology and Science**, currently exploring **VLSI design, ASIC physical design, FPGA systems, and embedded technologies**.
+About me:
 
-I'm particularly interested in understanding how designs move from **RTL → synthesis → floorplanning → placement → routing → GDS**, while also building practical hardware and embedded systems.
 
-### 🔧 What I'm Working With
+🎓 B.Tech in Electronics & Communication Engineering @ G. Narayanamma Institute of Technology and Science, Hyderabad (Aug 2023 – May 2027) — CGPA 8.61
+🔬 Currently deep in RTL-to-GDS ASIC design flow — synthesis, floorplanning, placement & routing with Cadence Genus / Innovus
+🖥️ Hardware Design Intern @ GOCL Corporation Limited — schematic capture, PCB layout & Gerber generation in KiCad
+🧩 I like projects that sit at the intersection of hardware, AI, and real-world impact — from silicon to sustainable travel apps
+🌱 Also active in entrepreneurship: 3rd place at Techstars Startup Weekend Hyderabad, Telangana State Finalist @ TiEU
+⚡ Fun fact: I've led fests as Joint Secretary of my college's Student Council and debugged a 256-bit counter's clock tree in the same semester
 
-* **VLSI:** RTL Design, ASIC Design Flow, Synthesis, Floorplanning, Placement & Routing
-* **HDL:** Verilog
-* **Hardware:** FPGA, Digital Electronics, CMOS Concepts, PCB Design
-* **Tools:** Cadence Genus, Innovus, KiCad, MPLAB
-* **Programming:** C++, Python
-* **Systems:** Linux, QNX RTOS
-* **Other Interests:** Embedded Systems, IoT, AI + Hardware
+🛠️ Skills
 
-### 🚀 Featured Projects
-
-**256-bit Counter — RTL to GDS**
-
-> Designed and implemented a 256-bit counter through synthesis, floorplanning, placement and routing using Cadence tools.
-
-**CT & MRI Fusion + Tumor Detection using FPGA**
-
-> Developed an FPGA-based system combining medical image fusion with AI-based tumor detection for real-time processing.
-
-**Real-Time Air Quality Monitoring System**
-
-> Built an IoT-based system for monitoring and displaying air-quality parameters in real time.
-
-**Wanderistan — AI Travel Planner**
-
-> Developed an AI-powered travel planning platform focused on sustainable and budget-friendly travel.
-
-**Orbix — Space Game**
-
-> Built an educational space-themed web game with interactive gameplay and 3D planetary models.
-
-### 📚 Currently Learning
-
-* Advanced RTL Design
-* ASIC Physical Design
-* FPGA-based System Design
-* Verilog & Digital Design
-* Embedded & Real-Time Systems
-
-### 🌱 Beyond Engineering
-
-I enjoy working on **entrepreneurship, creative projects, photography, and student-led initiatives**. I've also participated in startup and entrepreneurship competitions and enjoy turning ideas into working prototypes.
+Core Areas Electronics: VLSI Design FPGA Basics CMOS Concepts PCB Designing Verilog HDL
+Languages : CPP,Python,SQL
+Achievements & Certifications
+🥉 3rd Place — Techstars Startup Weekend Hyderabad (Travelloop)
+🏅 Telangana State Finalist — TiEU Entrepreneurship Competition (Farmzy / Ingredio)
+📜 VLSI SoC Design Using Verilog HDL — Maven Silicon
+📜 Realtime Programming, QNX Neutrino RTOS
+📜 Network Defense Certification — Cisco Networking Academy
+📜 OSINT Certification — CyberVidhyapeeth
+🎓 Harvard Policy Hackathon Participant
+🎓 Wadhwani Ignite India — Entrepreneurship & Problem-Solving
 
 ### 📫 Connect With Me
 
-* LinkedIn: [Your LinkedIn]
+* LinkedIn: [https://www.linkedin.com/in/sai-vaishnavi-chintaluri-b70568291 ]
 * Email: [vaishnavi.sc06@gmail.com](mailto:vaishnavi.sc06@gmail.com)
