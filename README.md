@@ -53,4 +53,4 @@ I enjoy working on **entrepreneurship, creative projects, photography, and stude
 ### 📫 Connect With Me
 
 * LinkedIn: [Your LinkedIn]
-* Email: [chint.vaishnavi@gmail.com](mailto:chint.vaishnavi@gmail.com)
+* Email: [vaishnavi.sc06@gmail.com](mailto:vaishnavi.sc06@gmail.com)
